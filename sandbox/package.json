@@ -1,0 +1,22 @@
+{
+  "name": "red-contrib-jsforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanbrooks/node-red-contrib-jsforce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanbrooks/node-red-contrib-jsforce/issues"
+  },
+  "homepage": "https://github.com/ethanbrooks/node-red-contrib-jsforce#readme",
+  "dependencies": {
+    "jsforce": "^1.9.3"
+  }
+}
